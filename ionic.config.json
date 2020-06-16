@@ -1,0 +1,7 @@
+{
+  "name": "graze",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
